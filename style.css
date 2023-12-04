@@ -64,8 +64,7 @@
 
 /* ! animation open */
 
-.area{  
-    background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);  
+.area{ 
     width: 100%;
     height:100vh;
 }
@@ -85,7 +84,7 @@
     list-style: none;
     width: 20px;
     height: 20px;
-    background: rgba(0, 0, 0, 0.2);
+    background: #c6c5c533;
     animation: animate 25s linear infinite;
     bottom: -150px;
     
