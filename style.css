@@ -16,6 +16,7 @@
 /* hero opention open */
 .hero {
     height: 100vh;
+    z-index:5;
 }
 
 .hero-txt {
@@ -67,6 +68,7 @@
 .area{
     width: 100%;
     height:100vh;
+    z-index:1;
 }
 
 .circles{
